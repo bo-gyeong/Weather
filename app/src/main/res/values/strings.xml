@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather</string>
+
+    <string name="weather">날씨</string>
+    <string name="rain">강수</string>
+    <string name="minTmp">최저기온</string>
+    <string name="maxTmp">최고기온</string>
+    <string name="speed">풍속</string>
+    <string name="direction">풍향</string>
+</resources>
